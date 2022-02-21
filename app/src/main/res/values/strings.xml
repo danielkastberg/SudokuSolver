@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SudokuSolver</string>
+    <string name="take_photo">Take photo</string>
+    <string name="manual_input">Input values</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="camera">Camera</string>
+    <string name="camera_button">Camera</string>
+    <string name="solve">Solve</string>
+    <string name="clear">Clear Board</string>
+    <string name="dialog_solve">Are you sure you want to solve this sudoku?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="sudoku_preview">Sudoku Preview</string>
+    <string name="remove_photo">Remove Photo</string>
+    <string name="invalid_sudoku_title">Unsolvable Sudoku</string>
+    <string name="invalid_sudoku_message">You entered an unsolvable sudoku. \nPlease try again</string>
+</resources>

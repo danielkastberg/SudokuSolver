@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Board">
+        <attr name="boardColor" format="color" />
+        <attr name="cellNeighbourColor" format="color" />
+        <attr name="cellSelectColor" format="color" />
+        <attr name="numberColor" format="color" />
+        <attr name="numberColorSolver" format="color" />
+        <attr name="numberColorError" format="color" />
+    </declare-styleable>
+</resources>
